@@ -6,7 +6,6 @@ p {
     color: green;
 }
 
-abstand {
-    display: block;
-    margin: 40;
+.abstand {
+    margin-top: 10;
 }
